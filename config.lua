@@ -16,7 +16,7 @@ DRP.MarkerRGB = {r = 114, g = 51, b = 255}
 DRP.Markers = {
     [1] = {
         x = -394.49765014648, y = -337.38708496094, z = 32.398212432861,
-        fnc = "drp-anpr:computer", 
+        fnc = "anas-anpr:computer", 
         tekst = "~p~ E ~w~· ANPR Computer Politie",
     },
 }
